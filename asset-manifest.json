@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Football-Info/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Football-Info/static/js/main.9819eb35.chunk.js",
+    "main.js.map": "/Football-Info/static/js/main.9819eb35.chunk.js.map",
+    "runtime-main.js": "/Football-Info/static/js/runtime-main.45ac196d.js",
+    "runtime-main.js.map": "/Football-Info/static/js/runtime-main.45ac196d.js.map",
+    "static/js/2.56f430de.chunk.js": "/Football-Info/static/js/2.56f430de.chunk.js",
+    "static/js/2.56f430de.chunk.js.map": "/Football-Info/static/js/2.56f430de.chunk.js.map",
+    "index.html": "/Football-Info/index.html",
+    "precache-manifest.1219c9c0f75bd26abd90099e27263f89.js": "/Football-Info/precache-manifest.1219c9c0f75bd26abd90099e27263f89.js",
+    "service-worker.js": "/Football-Info/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Football-Info/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.56f430de.chunk.js.LICENSE.txt": "/Football-Info/static/js/2.56f430de.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Football-Info/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45ac196d.js",
+    "static/js/2.56f430de.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9819eb35.chunk.js"
+  ]
+}
